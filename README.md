@@ -21,3 +21,5 @@ Turning caffeine, bad decisions, and technical debt into production software. �
 💻 Claude give me a job, no mistakes
 
 I enjoy a solitary BBQ lean pocket at Dawn, it's become a ritual. 🌐✨
+
+![Snake animation](https://github.com/mcgigglepop/mcgigglepop/blob/output/github-contribution-grid-snake.svg)
