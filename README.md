@@ -1,4 +1,4 @@
-## :wave: About Me :wave:
+## About Me :wave:
 
 <!--
 **mcgigglepop/mcgigglepop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
